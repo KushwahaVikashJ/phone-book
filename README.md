@@ -10,6 +10,8 @@ For jsonPrivateKey do the following in terminal
   - export phonebookKey=(whatever key user want to provide as a digital signature)
 
 API Documentation
+
+  Link for Postman API's Documentation=> https://documenter.getpostman.com/view/10968783/SztEYmDA?version=latest
   
   1. For Creating Users:
      - POST http://localhost:3000/user
