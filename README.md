@@ -3,7 +3,7 @@ Operations User can perform
   - Add a contact 
   - Remove a contact 
   - Update a contact 
-  - Search contact 
+  - Search contacts 
     - By name
 
 For jsonPrivateKey do the following in terminal
